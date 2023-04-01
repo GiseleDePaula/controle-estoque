@@ -3,8 +3,8 @@
 ## Lista de Funcionalidade
 
 ### Básico
-- [ ] Ter uma lista de Produtos com identificador para cada item
-- [ ] Criar interface para a lista de produto
+- [X] Ter uma lista de Produtos com identificador para cada item
+- [X] Criar interface para a lista de produto
 - [ ] Poder adicionar um  Item na lista de Produtos
 - [ ] Criar interface para poder adicionar um item na lista de produto
 - [ ] Poder remover um  Item da lista de Produtos
