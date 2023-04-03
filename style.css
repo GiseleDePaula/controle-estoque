@@ -39,16 +39,16 @@ body {
 }
 
 .conteudo th, .conteudo td {
-     text-align: left;
-     padding: 5px 10px 5px 5px;
+    text-align: left;
+    padding: 5px 10px 5px 5px;
 }
 
 .topico {
-  color: #eee;
+    color: #eee;
 }
 
 .topico th {
-  background-color: #333;
+    background: #333;
 }
 
 .conteudo tr:nth-child(odd) {

@@ -1,49 +1,59 @@
 [
    {
       "id": "0001",
-      "nome": "Teclado Game",
-      "marca": "Genérico"
+      "nome": "Teclado Gamer",
+      "marca": "Genérico",
+      "qtd": "1"
    },
    {
       "id": "0002",
-      "nome": "Mouse Game",
-      "marca": "Genérico"
+      "nome": "Mouse Gamer",
+      "marca": "Genérico",
+      "qtd": "1"
    },
    {
       "id": "0003",
       "nome": "Monitor 4k",
-      "marca": "LG"
+      "marca": "LG",
+      "qtd": "1"
    },
    {
       "id": "0004",
       "nome": "Tablet",
-      "marca": "Genérico"
+      "marca": "Genérico",
+      "qtd": "1"
    },
    {
       "id": "0005",
       "nome": "Notebook",
-      "marca": "Positiso"
+      "marca": "Positiso",
+      "qtd": "1"
    },
    {
       "id": "0006",
       "nome": "Ipressora",
-      "marca": "Kanon"
+      "marca": "Kanon",
+      "qtd": "1"
    },
    {
       "id": "0007",
       "nome": "Roteador",
-      "marca": "Intelbras"
+      "marca": "Intelbras",
+      "qtd": "1"
    },
    {
       "id": "0008",
       "nome": "Pen Drive",
-      "marca": "SanDisk"
+      "marca": "SanDisk",
+      "qtd": "1"  
    },
    {
       "id": "0009",
       "nome": "Caixa de Som",
-      "marca": "JBL"
+      "marca": "JBL",
+      "qtd": "1"
    }
+   
 
  
      
