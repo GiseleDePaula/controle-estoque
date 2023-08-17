@@ -24,9 +24,3 @@
 
 ### Extra
 - [ ] Armazenar cada transação na lista de produtos
-
-
-
-
-
-
