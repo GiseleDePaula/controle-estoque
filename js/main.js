@@ -1,10 +1,9 @@
-const baseURL = "https://e572-2804-14d-5c32-8e7e-400-d750-f490-966a.ngrok-free.app/cadastroProdutos"
+const baseURL = "https://localhost:3000/"
 const conteudo_tabela = document.querySelector('.conteudo tbody')
 
 async function request() {
-    try{
+    try {
       const response = await fetch(baseURL + "cadastroProdutos");
-      console.log(JSON.parse(response.json()))
       return response.json();
     }catch(e) {
       console.error(e);

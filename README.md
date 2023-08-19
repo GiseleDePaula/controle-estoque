@@ -1,5 +1,9 @@
 # CONTROLE DE ESTOQUE DE UMA LOJA DE PERIFÉRICOS DE TI
 
+## Dependências
+
+Para o front-end deste projeto rodar ele precisa de uma API de dados de produtos.
+
 ## Lista de Funcionalidade
 
 ### Básico
