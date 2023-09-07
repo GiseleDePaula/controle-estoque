@@ -1,9 +1,9 @@
-const baseURL = "https://localhost:3000/"
+const baseURL = "../produtos.json"
 const conteudo_tabela = document.querySelector('.conteudo tbody')
 
 async function request() {
-    try {
-      const response = await fetch(baseURL + "cadastroProdutos");
+    try{
+      const response = await fetch(baseURL);
       return response.json();
     }catch(e) {
       console.error(e);
@@ -11,7 +11,6 @@ async function request() {
 };
 
 request().then(function(response) {
-  console.log(response)
      response.forEach(produto => {
          const tr = document.createElement('tr');
          tr.innerHTML = `
